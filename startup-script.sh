@@ -1,3 +1,4 @@
+#!/bin/bash
 apt update
 apt install git curl apache2 apache2-utils
 apt install php7.3 libapache2-mod-php7.3 php7.3-mysql
